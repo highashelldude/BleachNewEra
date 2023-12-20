@@ -39,7 +39,7 @@
     "Captain V":0,
     "Captain III":0
   },
-  "Soul King":0,
+  "Soul King":35584815,
   "Fraccions":{
     "Fraccion I":[],
     "Fraccion IV":[],
@@ -54,7 +54,7 @@
   },
   "Heads":{
     "Head Espada":136278094,
-    "Head Captain":35584815,
+    "Head Captain":0,
     "Quincy Emperor":0
   }
 }
