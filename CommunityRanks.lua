@@ -54,7 +54,7 @@
   },
   "Heads":{
     "Head Espada":136278094,
-    "Head Captain":0,
+    "Head Captain":35584815,
     "Quincy Emperor":0
   }
 }
