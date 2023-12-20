@@ -39,7 +39,7 @@
     "Captain V":0,
     "Captain III":0
   },
-  "Soul King":0,
+  "Soul King":5346013533,
   "Fraccions":{
     "Fraccion I":[],
     "Fraccion IV":[],
