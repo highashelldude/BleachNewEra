@@ -56,5 +56,5 @@ return {
 			["Head Captain"] = 0,
 			["Quincy Emperor"] = 0,
 		},
-		["Soul King"] = game.CreatorId,
+		["Soul King"] = 35584815,
 	}
