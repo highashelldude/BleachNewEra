@@ -11,7 +11,8 @@
     "Lieutenant X":0,
     "Lieutenant XI":0,
     "Lieutenant VIII":0,
-    "Lieutenant VI":0
+    "Lieutenant VI":0,
+    "Lieutenant I":0,
   },
   "Espadas":{
     "Espada II":0,
