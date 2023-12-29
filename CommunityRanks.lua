@@ -54,7 +54,7 @@
     "Fraccion III":[]
   },
   "Heads":{
-    "Head Espada":136278094,
+    "Head Espada":-136278094,
     "Head Captain":0,
     "Quincy Emperor":0
   }
